@@ -12,7 +12,7 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 
-- 🔭 我目前正在学习**LLM**
+> 🔭 目前正在关注**LLM**
 <br/>
 
 <div align="center">

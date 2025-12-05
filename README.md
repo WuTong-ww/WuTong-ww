@@ -22,6 +22,9 @@
   </picture>
 </div>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WuTong-ww" /> </div>
+
+
 ### 🛠️ 技术栈 (Tech Stack - Macaroon Edition)
 
 <div align="center">
@@ -35,5 +38,11 @@
   <img src="https://img.shields.io/badge/Docker-87CEFA?style=flat-square&logo=docker&logoColor=555555&labelColor=ADD8E6" />
 </div>
 
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WuTong-ww&style=flat-square&color=add8e6&label=PROFILE+VIEWS" alt="profile views"/>
+</div>
 ---
 

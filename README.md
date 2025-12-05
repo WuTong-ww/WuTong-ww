@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <h3 align="center">🧩 My Contribution Blocks</h3>
-  <img src="https://isometric-contributions.vercel.app/api/WuTong-ww?theme=gotham&From=FFFFF0&to=87CEFA&step_0=E0FFFF&step_1=B0E0E6&step_2=87CEFA&step_3=00BFFF&step_4=1E90FF" alt="wuTong-ww's isometric contribution graph">
+  <h3 align="center">🧩 My Contribution Palette</h3>
+  <picture>
+    <img alt="macaroon contribution graph" src="https://raw.githubusercontent.com/WuTong-ww/WuTong-ww/output/macaroon-graph.svg">
+  </picture>
 </div>
 
 ---
@@ -33,16 +35,3 @@
 
 ---
 
-### 📈 数据统计 (Stats Palette)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WuTong-ww&show_icons=true&hide_border=true&bg_color=f0f8ff&title_color=87cefa&text_color=555555&icon_color=ffb6c1" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuTong-ww&layout=compact&hide_border=true&bg_color=f0f8ff&title_color=87cefa&text_color=555555&icon_color=ffb6c1" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WuTong-ww&style=flat-square&color=add8e6" alt="profile views"/>
-</div>

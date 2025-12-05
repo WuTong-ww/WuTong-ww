@@ -25,7 +25,7 @@
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WuTong-ww" /> </div>
 
 
-### 🛠️ 技术栈 (Tech Stack - Macaroon Edition)
+### 🛠️ 技术栈 (Tech Stack)
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-AEEEEE?style=flat-square&logo=c%2B%2B&logoColor=555555&labelColor=B0E0E6" />

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=220&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=35&desc=I'%20m%20WuTong-ww&descAlignY=60&descAlign=60&fontColor=555555" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=220&section=header&text=WELCOME%20&fontSize=80&animation=fadeIn&fontAlignY=35&descAlignY=60&descAlign=60&fontColor=555555" width="100%"/>
 </div>
 
 <div align="center">
@@ -16,7 +16,6 @@
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 
 - 🔭 我目前正在专注于: **LLM**
-
 <br/>
 
 ### 🛠️ 技术栈 (Tech Stack - Macaroon Edition)
@@ -45,5 +44,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WuTong-ww&style=flat-square&color=lightblue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=WuTong-ww&style=flat-square&color=add8e6" alt="profile views"/>
 </div>

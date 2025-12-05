@@ -6,7 +6,8 @@
 
 ### 👋 关于我 (About Me)
 
-> 🎓 **DaSE 本科生** 
+> 🎓 **DaSE 本科生**
+
 > ✨不断点亮技能点中……
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">

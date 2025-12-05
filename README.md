@@ -2,23 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=220&section=header&text=WELCOME%20&fontSize=80&animation=fadeIn&fontAlignY=35&descAlignY=60&descAlign=60&fontColor=555555" width="100%"/>
 </div>
 
+---
+
+### 👋 关于我 (About Me)
+
+> 🎓 **DaSE 本科生** 
+> ✨不断点亮技能点中……
+
+<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+
+- 🔭 我目前正在学习**LLM**
+<br/>
+
 <div align="center">
   <h3 align="center">🧩 My Contribution Palette</h3>
   <picture>
     <img alt="macaroon contribution graph" src="https://raw.githubusercontent.com/WuTong-ww/WuTong-ww/output/macaroon-graph.svg">
   </picture>
 </div>
-
----
-
-### 👋 关于我 (About Me)
-
-> 🎓 **DaSE 本科生，不断点亮技能点中……** ✨
-
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-
-- 🔭 我目前正在专注于: **LLM**
-<br/>
 
 ### 🛠️ 技术栈 (Tech Stack - Macaroon Edition)
 

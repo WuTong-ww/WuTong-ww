@@ -22,7 +22,6 @@
   </picture>
 </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=WuTong-ww" /> </div>
 
 
 ### 🛠️ 技术栈 (Tech Stack)
